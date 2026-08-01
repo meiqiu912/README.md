@@ -1,46 +1,40 @@
-# 🧠 AI Prompt Library — 205 Premium Prompts for ChatGPT, Claude & Gemini
+# 📕 AI Prompt Library — 205 Premium Prompts for ChatGPT, Claude & Gemini
 
-> **Stop trial-and-error prompting. Get professional-grade AI output in seconds.**
+**Stop getting mediocre AI answers. Start prompting like a pro.**
 
-![Prompts](https://img.shields.io/badge/prompts-205-brightgreen) ![Categories](https://img.shields.io/badge/categories-12-blue) ![Format](https://img.shields.io/badge/format-PDF-orange)
+The AI Prompt Library is a carefully curated collection of **205 copy-paste-ready prompts** that consistently produce high-quality output from ChatGPT, Claude, Gemini and any major LLM.
 
-## Why you need this
+## What's Inside
 
-Generic prompts like *"write a blog post"* produce generic, forgettable output. The **AI Prompt Library** gives you 205 battle-tested prompts — each engineered to unlock the full capability of modern LLMs. No more guessing, no more retyping the same long prompt every time.
+| Chapter | Prompts |
+|---------|---------|
+| ✍️ Writing & Blogging | 30 |
+| 📢 Marketing & Sales Copy | 28 |
+| 💻 Coding & Development | 24 |
+| 🎓 Learning & Study | 22 |
+| 📊 Data Analysis | 18 |
+| 💼 Business & Career | 20 |
+| 📱 Social Media | 16 |
+| 🔬 Research & Summarization | 15 |
+| ⚡ Productivity | 14 |
+| 🎨 Creativity | 10 |
+| 🌍 Life & Language | 8 |
+| 🛠️ Other Pro Scenarios | 10 |
 
-## What's inside — 12 categories
+**Each prompt includes:** use case → ready-to-copy template → placeholder explanation → tips to customize.
 
-| # | Category | What you get |
-|---|----------|--------------|
-| 1 | ✍️ Writing | Blog posts, essays, storytelling with a defined voice |
-| 2 | 📣 Marketing | Ad copy, email sequences, social content that converts |
-| 3 | 💻 Coding | Refactoring, debugging, architecture, code review |
-| 4 | 💼 Business | Strategy, pricing, proposals, client communication |
-| 5 | 🎓 Learning | Explain-like-I'm-5, Socratic tutoring, spaced repetition |
-| 6 | ⚡ Productivity | Meeting notes, task planning, inbox zero |
-| 7 | 🎨 Creative | Story beats, metaphors, constrained brainstorming |
-| 8 | 🔍 Data | Data storytelling, decision matrices, red-teaming |
-| 9 | 👤 Role-play | Expert personas for any domain |
-| 10 | 🌐 Translation | Natural, idiomatic translation & localization |
-| 11 | 🧪 Research | Literature review, hypothesis generation |
-| 12 | ✉️ Email | Cold outreach, follow-ups, difficult conversations |
+## Free Sample
 
-Every prompt includes:
-- ✅ **A copy-paste template** (works immediately)
-- ✅ **Customization parameters** (swap in your topic/context)
-- ✅ **Expected output quality** (so you know what to ask for)
+Check out our gist with **20 free working prompts**: https://gist.github.com/meiqiu912/d51f760633cc61dc870df404f085932a
 
-## Free sample
+## Pricing
 
-Check out my [gist with 25 free prompts](https://gist.github.com/meiqiu912/b2bccc8da8d7313e68f41ce1ab66bd00) — if those help, the full library has 8x more.
+- **¥19.9 (~$3)** — early bird price, one-time payment
+- 29+ page PDF delivered to your email after payment
+- Free lifetime updates (library growing to 500+ prompts)
+- 100% satisfaction guarantee
 
-## Get the full library
+👉 **[Get the full library](http://82.157.101.183:8088/图灵/web/)**
 
-📥 **Instant PDF download:** http://82.157.101.183:8088/图灵/web/
-
-- 205 prompts · 12 categories · ~30 pages
-- Works with ChatGPT, Claude, Gemini & any LLM
-- One-time purchase, yours forever
-- Email delivery after payment
-
-*Built by a writer who got tired of AI-sounding output — and fixed it properly.*
+---
+*Built for writers, developers, marketers, students and everyone who uses AI daily.*
