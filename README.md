@@ -1,47 +1,38 @@
-# AI Prompt Library — 205 Premium Prompts for ChatGPT / Claude / Gemini
+# AI Prompt Library 🚀
 
-**The copy-paste prompt library that saves you hours and upgrades your AI output quality.**
+**205 carefully curated, copy-paste ready English prompts for ChatGPT, Claude & Gemini.**
 
-## 📘 What you get
-A **~30-page PDF** with **205 premium, battle-tested English prompts** in **12 categories**:
+## What you get
 
-| # | Category | Prompts |
-|---|----------|---------|
-| 1 | Writing & Copywriting | 25 |
-| 2 | Programming & Code | 22 |
-| 3 | Marketing & SEO | 20 |
-| 4 | Learning & Study | 18 |
-| 5 | Data Analysis | 16 |
-| 6 | Business & Startup | 15 |
-| 7 | Productivity | 15 |
-| 8 | Creative | 14 |
-| 9 | Translation & Localization | 12 |
-| 10 | Personal Development | 12 |
-| 11 | Research & Summarization | 12 |
-| 12 | Image & Design (DALL·E / Midjourney) | 14 |
+A 29-page, 12-chapter PDF collection organized by real use case:
 
-## 🎁 Free sample prompt (try this right now)
+| Chapter | Prompts |
+|---|---|
+| ✍️ Writing & Editing | 35 |
+| 💻 Coding & Development | 30 |
+| 📈 Marketing & Content | 25 |
+| 🎓 Learning & Research | 25 |
+| 📊 Data & Analysis | 20 |
+| 🧠 Advanced Patterns & Frameworks | 20 |
+| Business / Creative / Productivity / Personal / Interview / Translation | 50 |
 
-```
-Role: Expert copywriter for conversion-optimized landing pages.
-Task: Write a hero section for [PRODUCT] targeting [AUDIENCE].
-Structure: Headline (≤10 words) → Subheadline (1 sentence, core benefit) → 3 outcome bullets → CTA (≤4 words).
-Constraint: No clichés like "revolutionary" or "game-changing".
-```
+## Why this library?
 
-## ✅ Why this library?
-- **Tested & refined** — not random prompt guesses, structured for reliable output
-- **12 categories** — writing, coding, marketing, learning, data & more
-- **Lifetime free updates** — new prompts added regularly
-- **Instant delivery** — PDF download right after purchase
+- **Copy-paste ready** — every prompt has placeholders, no prompt engineering degree needed
+- **Organized by use case** — find the right prompt in seconds, not minutes
+- **Proven patterns** — role-playing, chain-of-thought, iterative refinement, format control
+- **Works everywhere** — ChatGPT, Claude, Gemini, Copilot
 
-## 🛒 Get the full 205-prompt library
+## Free sample
 
-👉 **Buy & Download: [AI Prompt Library — 205 Premium Prompts (PDF)]**
-👉 Free sample chapter + sales page: **http://82.157.101.183:8088/图灵/web/**
+Try these 15 prompts first (free): [15 Prompts That Make AI Write Like a Pro](https://gist.github.com/meiqiu912/be83233b0a9938157be9863801e85802)
 
-For freelancers, content creators, marketers, developers, students — anyone using ChatGPT / Claude / Gemini daily.
+## Get the full library
+
+👉 **[AI Prompt Library - Full Version](http://82.157.101.183:8088/图灵/web/)**
+
+One great prompt saves you more time than the price of this book.
 
 ---
 
-⭐ Star this repo if you find the sample useful. Questions welcome in Issues.
+⭐ Star this repo if you find it useful — it helps others discover it too.
