@@ -1,31 +1,45 @@
-# AI写作提示词实操包（30条复制即用）
+# AI Prompt Library — 205 Premium English Prompts for ChatGPT / Claude / Gemini
 
-> 让AI写出不像AI的爆款内容：30条提示词，覆盖小红书/知乎/公众号/短视频/朋友圈5大场景。复制→替换→出稿。
+> Write natural, native-sounding English with AI. 205 copy-paste prompts, 12 scenarios, zero AI-slop.
 
-## 为什么需要它？
+## Why this library?
 
-很多人用 ChatGPT/DeepSeek/Kimi 写内容，得到的都是"首先、其次、最后"的 AI 味套话。**问题不在 AI，在于你不会提需求。** 这套实操包把需求说清楚这件事，做成了 30 条复制即用的模板。
+The #1 complaint about AI writing: it **sounds like AI**. "I hope this email finds you well." "Let's delve into." "In today's fast-paced digital landscape..."
 
-## 包含什么
+The real fix isn't a better model — it's a **better prompt**. This library gives you 205 battle-tested prompts organized by real-world scenario, each with:
+- ✅ Use case
+- ✅ Copy-paste template
+- ✅ Placeholder guide (change 2-3 words and go)
 
-- ✅ 30条复制即用提示词：小红书种草、知乎高赞、公众号文章、短视频脚本、朋友圈营销、简历优化、直播话术、竞品分析、SEO文案、内容日历等
-- ✅ 10个真实改写案例：AI废稿 → 爆款的完整改写过程
-- ✅ 避坑清单：3个动作让AI输出不像AI
-- ✅ 每条都带占位符说明，替换方括号就能出稿
+## Free sample (try these now)
 
-## 适用人群
+**Business email (natural tone):**
+```
+Write a follow-up to a client who hasn't replied to my proposal.
+Tone: friendly but professional. Under 80 words.
+Ban these words: "I hope this finds you well", "just checking in", "per my last email".
+```
 
-正在用 AI 写内容但总不满意的：小红书博主 / 公众号作者 / 知乎答主 / 短视频创作者 / 新媒体运营 / 自媒体新手
+**Rewrite without AI-speak:**
+```
+Rewrite for a general audience. Short sentences. No "delve", "unleash", "landscape", "game-changer". Active voice.
+```
 
-## 免费体验
+**LinkedIn hook:**
+```
+Write 5 LinkedIn hooks about [topic] that stop scrollers. Each under 10 words. No clichés.
+```
 
-先免费领 5 条（万能写作公式 / 爆款标题 / 小红书种草 / 知乎高赞 / 工作周报）：
-👉 [免费5条提示词](http://82.157.101.183:8088/%E6%95%B0%E5%AD%97%E4%BA%A7%E5%93%81%E9%98%BF%E6%97%BA/web/content/AI%E5%86%99%E4%BD%9C%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%AE%9E%E6%93%8D-%E5%85%8D%E8%B4%B95%E6%9D%A1.md)
+## 12 scenarios covered
 
-## 立即获取完整版
+Business emails · Marketing copy · Blogging & long-form · Academic writing · Workplace communication · Data analysis · Code comments · Localization · Social media · Sales & negotiation · Customer support · Learning English
 
-**¥19.9**（一顿早餐钱），支付宝付款后自动发邮箱，永久保存：
-👉 [购买完整版30条](http://82.157.101.183:8088/%E6%95%B0%E5%AD%97%E4%BA%A7%E5%93%81%E9%98%BF%E6%97%BA/web/product_home.html)
+## Get the full 205-prompt PDF
+
+👉 **http://82.157.101.183:8088/图灵/web/**
+
+Early-bird ¥19.9 (reg. ¥49) · One-time purchase, lifetime access, free upgrades · Instant email delivery · 30-day money-back guarantee
 
 ---
-*不割韭菜。每条都是真实可用的模板，不是网上凑数的废话。*
+
+⭐ Star this repo if you found the sample useful. Questions? Open an issue.
