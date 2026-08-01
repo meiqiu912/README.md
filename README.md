@@ -1,48 +1,62 @@
-# 🚀 AI Prompt Library — 205 Battle-Tested Prompts for ChatGPT / Claude / Gemini
+# 程序员简历模板 Markdown 版（可直接使用）
 
-**Stop wasting tokens on vague prompts. Get 205 structured, copy-paste-ready prompts that consistently produce high-quality output.**
+一份可以直接复制使用的程序员简历模板，Markdown 格式，支持导出 PDF。适合求职/跳槽/校招。
 
-## What's Inside
-
-| Chapter | Prompts | What You'll Master |
-|---------|---------|-------------------|
-| ✍️ Writing | 25 | Articles, emails, hooks, rewriting, storytelling |
-| 💻 Coding | 25 | Debugging, code review, refactoring, architecture |
-| 📈 Marketing | 20 | Hooks, landing pages, content repurposing, ads |
-| 🎓 Learning | 20 | Feynman technique, spaced repetition, quizzes |
-| 📊 Data Analysis | 15 | Decision frameworks, reports, visualizations |
-| 💼 Business | 15 | Strategy, pricing, negotiation, planning |
-| ⚡ Productivity | 15 | Meetings, task management, inbox zero |
-| 🚀 Career | 15 | Resumes, interviews, LinkedIn, personal brand |
-| 🔬 Research | 15 | Literature review, citations, experiments |
-| 💰 Finance | 10 | Budgeting, investing research, tax planning |
-| 🧘 Health | 10 | Meal plans, workout design, habit building |
-| 🎨 Creativity | 20 | Brainstorming, design prompts, ideation |
-
-**Total: 205 prompts, 12 chapters, each with usage notes + real examples.**
-
-## Why These Prompts Are Different
-
-1. **Structured** — every prompt has placeholders like `[topic]`, `[audience]` so you can plug in your context instantly
-2. **Output-controlled** — each specifies format, tone, and length so results are usable, not generic
-3. **Battle-tested** — refined through months of real usage across ChatGPT, Claude, and Gemini
-
-## Free Sample
-
-Want to try before you buy? Here's a taste:
+## 模板正文
 
 ```
-Rewrite the text below for a busy executive.
-Cut fluff, keep key facts, use short sentences.
-Output 3 versions: formal, friendly, punchy.
-TEXT: [paste your draft]
+# 张三
+前端工程师 | 3年经验 | 求职：中级前端开发
+
+📱 138-0000-0000 | 📧 zhangsan@email.com | 🌐 github.com/zhangsan | 城市：上海
+
+## 技能栈
+- 前端：Vue3 / React / TypeScript / Vite
+- 工程化：Git / CI-CD / Docker / Webpack
+- 其他：Node.js / MySQL 基础
+
+## 工作经历
+### 某科技公司 — 前端开发（2022.06 - 至今）
+- 主导XX后台管理系统重构，页面加载时间从 4.2s 优化到 1.1s（性能提升 74%）
+- 搭建组件库，覆盖 30+ 通用组件，团队开发效率提升 40%
+- 负责 3 个从 0 到 1 的项目上线，日均 PV 5 万+
+
+### 某初创公司 — 前端实习（2021.06 - 2022.05）
+- 参与官网与小程序开发，独立完成 8 个核心页面
+
+## 项目经历
+### XX 低代码平台（2023.03 - 2023.10）
+- 技术栈：Vue3 + TypeScript + Element Plus
+- 核心职责：表单引擎设计、拖拽组件实现
+- 成果：内部 5 个业务线接入，表单开发时间从 3 天缩短到 2 小时
+
+## 教育背景
+XX大学 计算机科学与技术 本科（2017.09 - 2021.06）
+
+## 荣誉/证书
+- 省级竞赛二等奖
+- CET-6
 ```
 
-## Get the Full Library
+## 使用方法
+1. 复制上方内容，替换为自己的信息
+2. 用 Typora / VS Code / 在线 Markdown 工具打开
+3. 导出 PDF 或直接投递
 
-The complete 205-prompt library with all 12 chapters, usage notes, and examples is available now:
+## 为什么简历总被刷？
+HR 筛一份简历平均只有 **6 秒**。模板不背锅，**写法**才是关键：
+- ❌ 写"负责XX系统开发"（没有结果）
+- ✅ 写"XX系统从 0 到 1 上线，日活 2 万，转化率提升 15%"（有量化结果）
 
-👉 **[AI Prompt Library — Get Instant Access](http://82.157.101.183:8088/图灵/web/)**
+## 想要更完整的求职资料包？
+我整理了一份《应届生求职急救包 2025 版》，包含：
+- ✅ 10 套简历模板（不同岗位风格）
+- ✅ 简历优化 20 条实战技巧
+- ✅ 面试高频题 + 应答话术（HR面+技术面+群面）
+- ✅ 自我介绍模板、离职原因话术
+- ✅ 求职时间规划表
 
----
-⭐ If this is useful, star this repo — it helps other people find it too.
+💰 仅 9.9 元，付款后 24 小时内邮件发送下载链接：
+👉 https://82.157.101.183:8088/白洁/web/goods/pay-1785605739564-应届生求职急救包简历模板面试高频题应答话术2025版.html
+
+免费模板已经够用，付费包是给想省时间、提高通过率的朋友准备的。祝求职顺利！
