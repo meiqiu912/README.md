@@ -1,45 +1,43 @@
-# AI Prompt Library — 205 Premium English Prompts for ChatGPT / Claude / Gemini
+# 🎨 AI绘画提示词包100条（复制即用）
 
-> Write natural, native-sounding English with AI. 205 copy-paste prompts, 12 scenarios, zero AI-slop.
+**一张图一个世界，一份提示词库画一整年。**
 
-## Why this library?
+## 这个包解决什么问题？
 
-The #1 complaint about AI writing: it **sounds like AI**. "I hope this email finds you well." "Let's delve into." "In today's fast-paced digital landscape..."
+用 AI 绘画出图总是翻车？
+- 手画得歪、画面脏、像劣质图 → **提示词不会写**
+- 不知道用哪些工具、参数怎么调 → **缺一份入门指南**
+- 想靠 AI 绘画接单变现 → **缺商业模板**
 
-The real fix isn't a better model — it's a **better prompt**. This library gives you 205 battle-tested prompts organized by real-world scenario, each with:
-- ✅ Use case
-- ✅ Copy-paste template
-- ✅ Placeholder guide (change 2-3 words and go)
+## 包里有什么（100%干货，非凑数）
 
-## Free sample (try these now)
+| 模块 | 内容 |
+|---|---|
+| 100条精编提示词 | 画质/风格/人像/场景/动物/美食/构图/光线/商业 十大类 |
+| 万能套用公式 | 主体+场景+风格+光线+镜头+画质词，1条公式=无限变体 |
+| 快速开始指南 | 3步出图，新手10分钟上手 |
+| 负面词库 | 避雷清单，出图不翻车 |
+| 真实案例拆解 | 每类配案例，知道怎么用、怎么变现 |
+| 持续更新 | 新风格免费补发到邮箱 |
 
-**Business email (natural tone):**
+## 谁适合买
+
+- 小红书/抖音创作者（封面图、配图）
+- 电商/自媒体小编（主图、海报、公众号头图）
+- AI绘画爱好者（壁纸、头像、素材）
+- 想靠 AI 绘画接单赚钱的人（IP形象、商业模板）
+
+## 怎么买
+
+💰 **9.9 元**（一杯奶茶钱），付款后自动发文件到邮箱，无需等待人工。
+👉 购买页：http://82.157.101.183:8088/数字产品阿旺/web/goods/AI绘画提示词包100条复制即用.html
+
+## 免费加餐：万能公式
+
 ```
-Write a follow-up to a client who hasn't replied to my proposal.
-Tone: friendly but professional. Under 80 words.
-Ban these words: "I hope this finds you well", "just checking in", "per my last email".
+（主体），在（场景），（风格），（光线），（镜头），ultra-detailed, 8k
 ```
 
-**Rewrite without AI-speak:**
-```
-Rewrite for a general audience. Short sentences. No "delve", "unleash", "landscape", "game-changer". Active voice.
-```
+示例：`一只戴礼帽的橘猫，坐在图书馆窗台，日系水彩，暖阳透过玻璃，特写浅景深，ultra-detailed, 8k`
 
-**LinkedIn hook:**
-```
-Write 5 LinkedIn hooks about [topic] that stop scrollers. Each under 10 words. No clichés.
-```
-
-## 12 scenarios covered
-
-Business emails · Marketing copy · Blogging & long-form · Academic writing · Workplace communication · Data analysis · Code comments · Localization · Social media · Sales & negotiation · Customer support · Learning English
-
-## Get the full 205-prompt PDF
-
-👉 **http://82.157.101.183:8088/图灵/web/**
-
-Early-bird ¥19.9 (reg. ¥49) · One-time purchase, lifetime access, free upgrades · Instant email delivery · 30-day money-back guarantee
-
----
-
-⭐ Star this repo if you found the sample useful. Questions? Open an issue.
+学会这条公式，100条提示词 = 10000种画法。
