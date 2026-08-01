@@ -1,39 +1,78 @@
-# AI Prompt Library — 205 Premium Prompts for ChatGPT, Claude & Gemini
+# 中文 AI 提示词模板大全
 
-A curated collection of **205 tested, high-quality prompts** in a 29-page PDF, organized into 12 chapters. Works across ChatGPT, Claude, Gemini and other major AI assistants.
+> 收藏 = 白嫖，用起来 = 赚钱。这套模板覆盖小红书/公众号/短视频/职场/学习/编程全场景，全部**复制即用**。
 
-## Why this library?
+## 为什么你问 AI 总得到"正确的废话"？
 
-Most people use AI with generic prompts and get generic results. This library contains **field-tested prompts** that produce consistently better outputs — from writing and coding to sales and personal productivity.
+因为你用"需求描述"提问，而不是"生产指令"：
 
-## What's inside (12 chapters, 205 prompts)
+- ❌ "帮我写一篇小红书文案" → AI 给你一堆正确的废话
+- ✅ 角色 + 任务 + 要求 + 补充 → AI 输出直接能发
 
-| Chapter | Prompts |
-|---|---|
-| ✍️ Writing & Content Creation | 30 |
-| 💼 Business & Marketing | 25 |
-| 💻 Coding & Development | 20 |
-| 🧠 Learning & Research | 20 |
-| 📋 Productivity & Workflow | 25 |
-| 🎯 Sales & Negotiation | 15 |
-| 🎨 Creative Work | 20 |
-| 🌐 Social Media | 20 |
-| 🗣️ Communication | 15 |
-| 🏆 Personal Development | 15 |
-| 💰 Freelancing & Gig Work | 10 |
-| 🔧 Advanced Techniques | 10 |
+**同一个 AI，输出质量能差 10 倍。差的不是模型，是提示词。**
 
-## Free sample
+## 万能公式（背下来）
 
-Try these prompts before buying — a free sample of 25 prompts is available in the gist:
-👉 https://gist.github.com/meiqiu912/de98f2233c44af0486e7c882429a0dda
+```
+角色：你是____领域的资深专家（越具体越好）
+任务：帮我完成____（要什么，写清楚）
+要求：①____ ②____ ③____（格式/字数/风格/结构）
+补充：我的情况是____，受众是____（给 AI 上下文）
+```
 
-## Get the full library
+## 5 个即抄即用模板
 
-👉 **Buy the full 205-prompt PDF here:** http://82.157.101.183:8088/图灵/web/
+### 1. 小红书爆款笔记
+```
+角色：你是深耕____领域 5 年的小红书博主，粉丝 30 万，擅长高互动笔记。
+任务：为我的____主题写一篇爆款笔记。
+要求：①标题"数字+悬念"或"痛点+方案"；②正文 300 字分 3 段，开头 10 秒抛痛点；
+③结尾加互动问题引导评论；④配 5 个精准话题标签。
+```
 
-One-time payment, instant delivery to your email. Upgrade to 500+ prompts free when available.
+### 2. 短视频口播稿
+```
+角色：你是短视频编导，擅长 60 秒口播。
+任务：把以下内容改写成口播稿：____
+要求：①开头 3 秒抛结果；②"你以为…其实…"制造反转；③结尾引导关注；④口语化。
+```
+
+### 3. 周报/汇报（打工人刚需）
+```
+角色：你是职场效率专家。
+任务：把以下工作内容改写成周报：____
+要求：①"成果+数据+下一步"结构；②一句话说清价值；③语气专业不邀功；④200 字内。
+```
+
+### 4. 用 AI 做选题库
+```
+角色：你是____领域的内容策略师。
+任务：为我生成 20 个下周可写的选题。
+要求：①覆盖"新手入门/避坑经验/工具推荐/案例拆解"4 类；②每个选题带 1 句卖点；③避开烂大街选题。
+```
+
+### 5. 自媒体全流程工作流（选题→文案→配图→标题→复盘）
+```
+第一步：你是资深运营，围绕「____」给我 10 个选题，每个含标题+人群+爆款逻辑+3 个小标题，用表格输出。
+第二步：按"开头 30 字戳痛点→中间 150 字真实经历+数字→结尾 1 个行动建议"写一篇笔记，口语化，400 字内。
+第三步：设计 3 页配图大纲，每页配 10 字内封面大字文案。
+第四步：为标题写 5 个版本，覆盖数字/反常识/人设/emoji 四种心理。
+第五步：给我笔记数据，让 AI 分析问题并给出下一条改进方案。
+```
+
+## 心法 4 条（免费送）
+
+1. **给角色**：告诉 AI 它是谁，它就用那个视角思考
+2. **给背景**：主题、人群、平台规则说清楚，AI 最怕信息不全
+3. **给格式**：表格/字数/结构说清，输出质量翻倍
+4. **给约束**：语气、长度、禁忌项都写，AI 才"像人话"
+
+**会问的人，AI 是印钞机；不会问的人，AI 是聊天机器人。**
 
 ---
 
-© AI Prompt Library. Built with ❤️ for people who want better AI results.
+📌 **想要全部 100+ 模板？** 我整理了《AI 提示词实战手册》：覆盖 10+ 场景的 100+ 精选模板 + 提示词工程原理 + 5 个完整实战案例 + 避坑指南，12000+ 字，一次购买永久更新：
+
+👉 [《AI 提示词实战手册》立即购买（19.9 元，付款即自动发送到邮箱）](http://82.157.101.183:8088/白洁/web/goods/pay-1785616423599-AI提示词实战手册100精选模板.html)
+
+更多免费干货在 👉 [GitHub 主页](https://github.com/meiqiu912)
