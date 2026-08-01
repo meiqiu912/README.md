@@ -1,34 +1,48 @@
-# 📝 写作变现工具箱（Writer Monetization Toolkit）
+# 🚀 AI Prompt Library — 205 Battle-Tested Prompts for ChatGPT / Claude / Gemini
 
-> 中文写作变现的全套资料导航：投稿渠道怎么找、爆款文章怎么写、稿费怎么结算。
-> 适合：想靠写作赚稿费的上班族/学生/自由职业者。
+**Stop wasting tokens on vague prompts. Get 205 structured, copy-paste-ready prompts that consistently produce high-quality output.**
 
-## 这个工具箱解决什么问题
+## What's Inside
 
-很多人不是不会写，而是**不知道投哪里、不知道怎么开头、不知道怎么写才有人看**。这个仓库把这三件事拆成了可执行的步骤。
+| Chapter | Prompts | What You'll Master |
+|---------|---------|-------------------|
+| ✍️ Writing | 25 | Articles, emails, hooks, rewriting, storytelling |
+| 💻 Coding | 25 | Debugging, code review, refactoring, architecture |
+| 📈 Marketing | 20 | Hooks, landing pages, content repurposing, ads |
+| 🎓 Learning | 20 | Feynman technique, spaced repetition, quizzes |
+| 📊 Data Analysis | 15 | Decision frameworks, reports, visualizations |
+| 💼 Business | 15 | Strategy, pricing, negotiation, planning |
+| ⚡ Productivity | 15 | Meetings, task management, inbox zero |
+| 🚀 Career | 15 | Resumes, interviews, LinkedIn, personal brand |
+| 🔬 Research | 15 | Literature review, citations, experiments |
+| 💰 Finance | 10 | Budgeting, investing research, tax planning |
+| 🧘 Health | 10 | Meal plans, workout design, habit building |
+| 🎨 Creativity | 20 | Brainstorming, design prompts, ideation |
 
-## 核心内容
+**Total: 205 prompts, 12 chapters, each with usage notes + real examples.**
 
-### 1️⃣ 找渠道（新手主战场：中型公众号，稿费50-300元/篇）
-- 微信搜一搜：搜「公众号 征稿」「约稿函」
-- 关注投稿资讯类公众号，每天收最新征稿函
-- 豆瓣投稿小组 / 知乎征稿话题
+## Why These Prompts Are Different
 
-### 2️⃣ 写爆款（3个直接套用的公式）
-- **反常识+场景**：「越努力越穷的人，都输在了这件事上」
-- **痛点+清单**：「副业3个月没收入？99%卡在这5步」
-- **经历+提炼**：「被拒稿20次到月入3000，我只改了一处」
+1. **Structured** — every prompt has placeholders like `[topic]`, `[audience]` so you can plug in your context instantly
+2. **Output-controlled** — each specifies format, tone, and length so results are usable, not generic
+3. **Battle-tested** — refined through months of real usage across ChatGPT, Claude, and Gemini
 
-### 3️⃣ 避坑（钱怎么拿到手）
-- 多数号推送后结算，投前问清
-- 保留投稿记录，避免重复投
-- 收「过稿费/指导费」的99%是骗子
+## Free Sample
 
-## 📦 完整版资料包
+Want to try before you buy? Here's a taste:
 
-浓缩版在 README 里了。完整版《公众号投稿变现指南+爆款写作模板包》含：8大模块（渠道清单/选题公式/标题模板/结构模板/邮件模板/避坑指南/退稿自查）+ **30个爆款写作模板**，一份资料全搞定。
+```
+Rewrite the text below for a busy executive.
+Cut fluff, keep key facts, use short sentences.
+Output 3 versions: formal, friendly, punchy.
+TEXT: [paste your draft]
+```
 
-👉 购买（¥9.9，付款后24小时内邮件发送）：http://82.157.101.183:8088/%E5%8F%A4%E9%BE%99/web/goods/pay-1785604245736-%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8A%95%E7%A8%BF%E5%8F%98%E7%8E%B0%E6%8C%87%E5%8D%97%E7%88%86%E6%AC%BE%E5%86%99%E4%BD%9C%E6%A8%A1%E6%9D%BF%E5%8C%85.html
+## Get the Full Library
+
+The complete 205-prompt library with all 12 chapters, usage notes, and examples is available now:
+
+👉 **[AI Prompt Library — Get Instant Access](http://82.157.101.183:8088/图灵/web/)**
 
 ---
-*Star ⭐ 这个仓库，写作变现路上不迷路。*
+⭐ If this is useful, star this repo — it helps other people find it too.
