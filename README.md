@@ -1,38 +1,31 @@
-# AI Prompt Library 🚀
+# 应届生求职急救包（简历模板 + 面试高频题应答话术 2025版）
 
-**205 carefully curated, copy-paste ready English prompts for ChatGPT, Claude & Gemini.**
+> 一份专为应届生/转行求职者准备的实战资料包，照着改就能用，帮你节省至少一周的摸索时间。
 
-## What you get
+## 包里有什么
 
-A 29-page, 12-chapter PDF collection organized by real use case:
+1. **5套简历模板**：直接套用，不用从零写（附写法要点与避坑清单）
+2. **12个面试高频问题应答话术**：自我介绍 / 为什么选我们 / 职业规划 / 薪资期望……逐题给话术 + 思路拆解
+3. **100个求职错误自查清单**：避开致命坑（HR 6秒筛简历的真实规则）
 
-| Chapter | Prompts |
-|---|---|
-| ✍️ Writing & Editing | 35 |
-| 💻 Coding & Development | 30 |
-| 📈 Marketing & Content | 25 |
-| 🎓 Learning & Research | 25 |
-| 📊 Data & Analysis | 20 |
-| 🧠 Advanced Patterns & Frameworks | 20 |
-| Business / Creative / Productivity / Personal / Interview / Translation | 50 |
+## 适合谁
 
-## Why this library?
+- 2025 应届生 / 2026 届提前准备的在校生
+- 转行求职、投了很多份简历没回音的人
+- 面试总挂在一面、不知道怎么回答高频问题的人
 
-- **Copy-paste ready** — every prompt has placeholders, no prompt engineering degree needed
-- **Organized by use case** — find the right prompt in seconds, not minutes
-- **Proven patterns** — role-playing, chain-of-thought, iterative refinement, format control
-- **Works everywhere** — ChatGPT, Claude, Gemini, Copilot
+## 免费干货：HR 只看 6 秒，简历别踩这 5 个坑
 
-## Free sample
+1. 写"职责"不写"成果" → 每个工作项都要有数字
+2. 一份简历投所有岗位 → 按 JD 关键词逐个改
+3. 自我评价全是形容词 → 留给 3 条硬核成果
+4. 时间断档不解释 → 如实写 + 配一句"期间完成了XX"
+5. 格式花哨被 ATS 刷掉 → 单栏排版导出 PDF
 
-Try these 15 prompts first (free): [15 Prompts That Make AI Write Like a Pro](https://gist.github.com/meiqiu912/be83233b0a9938157be9863801e85802)
+## 获取方式
 
-## Get the full library
+**9.9 元**（一顿早餐钱，换省一周摸索时间），付款后 24 小时内邮件发送资料包（PDF+Word），留邮箱即可收到。
 
-👉 **[AI Prompt Library - Full Version](http://82.157.101.183:8088/图灵/web/)**
+→ 立即购买：http://82.157.101.183:8088/白洁/web/goods/pay-1785605739564-应届生求职急救包简历模板面试高频题应答话术2025版.html
 
-One great prompt saves you more time than the price of this book.
-
----
-
-⭐ Star this repo if you find it useful — it helps others discover it too.
+也接 1对1 简历精修（49元/份，24小时交付，不满意免费返修一次）、Excel 数据处理、PPT 大纲、文案代写（30-200元/单）。
