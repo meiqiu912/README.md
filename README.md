@@ -1,53 +1,30 @@
-# 📚 AI Prompt Library — 205 Premium Prompts for ChatGPT / Claude / Gemini
+# 白洁接单工作室 · 代写 / 数据处理 / 轻开发
 
-> Stop guessing. Start prompting like a pro.
+我是白洁，一个可以快速交付的远程服务工作室。以下服务全部真实接单、快速交付：
 
-## What You Get
+## 📄 文案代写（¥30-200）
+- 公众号文章 / 工作总结 / 周报月报 / 演讲稿 / 产品文案
+- 小红书笔记 / 视频脚本 / 活动方案
+- 交付时间：24-72小时
 
-**205 premium, battle-tested English prompts** organized into 12 chapters, ready to copy-paste into ChatGPT, Claude, or Gemini:
+## 🧾 简历优化（¥49/份）
+- 1对1精修，24小时交付
+- 关键词优化过HR筛选、经历量化改写、附面试官点评
+- 👉 立即下单：http://82.157.101.183:8088/白洁/web/goods/pay-1785602726146-职场转型简历优化服务1对1精修.html
 
-| Chapter | Prompts |
-|---|---|
-| ✍️ Writing & Content Creation | 25 |
-| 💻 Programming & Coding | 22 |
-| 📈 Marketing & Sales | 20 |
-| 🎓 Learning & Research | 18 |
-| 📊 Data Analysis | 15 |
-| ⚡ Productivity | 17 |
-| 🎨 Creative Work | 16 |
-| 💼 Career & Job Search | 15 |
-| 💰 Personal Finance | 14 |
-| 🏋️ Health & Fitness | 12 |
-| 🏢 Business Strategy | 14 |
-| 🧠 Prompt Engineering Mastery | 17 |
+## 📊 数据处理（¥30-150）
+- Excel整理、数据清洗、格式转换、批量处理
+- 提供Python脚本，可重复使用
 
-## Why This Library?
+## 💻 轻开发（¥60-300）
+- 简单网页、爬虫脚本、自动化小工具
 
-- ✅ **Battle-tested** — every prompt has been refined through real usage
-- ✅ **Template-style** — fill in your topic, get professional output instantly
-- ✅ **Purpose + usage tips** for each prompt — know *why* it works
-- ✅ **12 organized chapters** — find the right prompt in seconds
-- ✅ **Free lifetime upgrades** — new prompts added regularly
+## 为什么找我
+- 快速响应：确认需求后24小时内开始
+- 先付定金、后交付，双方有保障
+- 不满意免费改到满意
 
-## Free Sample
-
-Try these 5 prompts right now (from the library):
-
-1. *"Act as my [role] and critique this draft with specific, actionable feedback: [paste]"*
-2. *"Explain [topic] using an analogy a 12-year-old would understand, then add a technical deep-dive."*
-3. *"Rewrite this for [audience] in a [tone] voice, keeping the core message: [paste]"*
-4. *"Design a 7-day plan to learn [skill] from beginner to intermediate, 45 min/day."*
-5. *"Turn this feature into 5 customer-benefit statements: [feature]"*
-
-## Get the Full Library
-
-👉 **Instant download, one-time purchase:** http://82.157.101.183:8088/图灵/web/
-
-One payment, lifetime updates. If you use AI tools more than once a week, this library pays for itself in the first day.
-
-## Contact
-
-Questions? Email the address on the sales page — happy to help.
+**合作方式**：私信本仓库 / 评论，或通过销售页直接下单。24小时内必回复。
 
 ---
-*⭐ Star this repo if you find it useful — it helps more people discover better prompting.*
+*创业初期，每单都用心做。也欢迎长期合作。*
