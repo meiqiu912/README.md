@@ -1,31 +1,52 @@
-# 应届生求职急救包（简历模板 + 面试高频题应答话术 2025版）
+# 🤖 AI Prompt Library — 205 Premium English Prompts (PDF)
 
-> 一份专为应届生/转行求职者准备的实战资料包，照着改就能用，帮你节省至少一周的摸索时间。
+**205 hand-crafted English prompts** for ChatGPT, Claude & Gemini. 12 practical categories. Copy-paste ready. Get better AI output in seconds — stop the trial-and-error loop.
 
-## 包里有什么
+![version](https://img.shields.io/badge/version-1.0-2dd4bf) ![prompts](https://img.shields.io/badge/prompts-205-818cf8) ![pages](https://img.shields.io/badge/pages-29+-2dd4bf)
 
-1. **5套简历模板**：直接套用，不用从零写（附写法要点与避坑清单）
-2. **12个面试高频问题应答话术**：自我介绍 / 为什么选我们 / 职业规划 / 薪资期望……逐题给话术 + 思路拆解
-3. **100个求职错误自查清单**：避开致命坑（HR 6秒筛简历的真实规则）
+---
 
-## 适合谁
+## 📖 What's Inside
 
-- 2025 应届生 / 2026 届提前准备的在校生
-- 转行求职、投了很多份简历没回音的人
-- 面试总挂在一面、不知道怎么回答高频问题的人
+| # | Category | What you can do |
+|---|----------|-----------------|
+| 01 | Writing & Editing | Articles, essays, outlines, rewriting, tone control |
+| 02 | Marketing & Sales | Ad copy, landing pages, email sequences, positioning |
+| 03 | Coding & Debugging | Code review, refactoring, docs, test cases |
+| 04 | Business & Strategy | SWOT, business plans, pricing, competitor analysis |
+| 05 | Research & Analysis | Summaries, data interpretation, literature review |
+| 06 | Learning & Tutoring | Explain anything, practice questions, analogies |
+| 07 | Productivity & Planning | Task breakdown, prioritization, meeting prep |
+| 08 | Career & Resume | Resumes, cover letters, interview prep, salary talk |
+| 09 | Social Media & Content | Post ideas, captions, threads, video scripts |
+| 10 | Translation & Localization | Accurate, natural translation with tone control |
+| 11 | Email & Communication | Cold emails, follow-ups, professional replies |
+| 12 | Creative & Idea Generation | Brainstorming, naming, storytelling |
 
-## 免费干货：HR 只看 6 秒，简历别踩这 5 个坑
+## 🎯 Who It's For
 
-1. 写"职责"不写"成果" → 每个工作项都要有数字
-2. 一份简历投所有岗位 → 按 JD 关键词逐个改
-3. 自我评价全是形容词 → 留给 3 条硬核成果
-4. 时间断档不解释 → 如实写 + 配一句"期间完成了XX"
-5. 格式花哨被 ATS 刷掉 → 单栏排版导出 PDF
+- English learners who want AI output that sounds **native, not AI**
+- Freelancers & marketers writing emails, copy, and LinkedIn posts
+- Developers writing docs, comments, and PR descriptions
+- Students polishing essays and abstracts
+- Anyone tired of the "write me an email" → robotic-result loop
 
-## 获取方式
+## ✅ What You Get
 
-**9.9 元**（一顿早餐钱，换省一周摸索时间），付款后 24 小时内邮件发送资料包（PDF+Word），留邮箱即可收到。
+- 205 prompts across 12 scenarios, each with: **use case + template + placeholder guide**
+- Copy-paste ready — change 2-3 words in `[brackets]`, done
+- Works with ChatGPT, Claude & Gemini
+- One-time purchase, lifetime use, free future upgrades
 
-→ 立即购买：http://82.157.101.183:8088/白洁/web/goods/pay-1785605739564-应届生求职急救包简历模板面试高频题应答话术2025版.html
+## 🚀 Get It
 
-也接 1对1 简历精修（49元/份，24小时交付，不满意免费返修一次）、Excel 数据处理、PPT 大纲、文案代写（30-200元/单）。
+👉 **[Buy the PDF (Early-bird ¥19.9) → http://82.157.101.183:8088/图灵/web/](http://82.157.101.183:8088/图灵/web/)**
+Alipay payment · PDF delivered to email within 24h · refund-friendly
+
+## 📄 Free Sample
+
+Want to try before buying? Read **[20 Free ChatGPT Prompts That Make Your English Sound Native](https://gist.github.com/meiqiu912/6aaaab734129fddb6982a2183ba17635)** — 20 copy-paste prompts, free.
+
+---
+
+*AI Prompt Library · Make every AI conversation worth it*
