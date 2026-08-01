@@ -1,31 +1,39 @@
-# 《AI提示词实战手册》中文版
+# AI Prompt Library — 205 Premium Prompts for ChatGPT, Claude & Gemini
 
-> 100+ 精选提示词模板，让你用 AI 的效率翻倍。一次购买，永久使用，持续更新。
+A curated collection of **205 tested, high-quality prompts** in a 29-page PDF, organized into 12 chapters. Works across ChatGPT, Claude, Gemini and other major AI assistants.
 
-## 📌 为什么你需要这份手册？
+## Why this library?
 
-用 AI 的人 90% 都在"正确的废话"里挣扎：问得太宽泛、不给角色、不限定格式、不会迭代、一次塞太多需求。这 5 个坑，我一个不落全踩过。
+Most people use AI with generic prompts and get generic results. This library contains **field-tested prompts** that produce consistently better outputs — from writing and coding to sales and personal productivity.
 
-这份手册是我 30 天真实使用 AI 写作/编程/副业的踩坑总结，不是拼凑的"大路货"。
+## What's inside (12 chapters, 205 prompts)
 
-## 📦 手册包含什么？
+| Chapter | Prompts |
+|---|---|
+| ✍️ Writing & Content Creation | 30 |
+| 💼 Business & Marketing | 25 |
+| 💻 Coding & Development | 20 |
+| 🧠 Learning & Research | 20 |
+| 📋 Productivity & Workflow | 25 |
+| 🎯 Sales & Negotiation | 15 |
+| 🎨 Creative Work | 20 |
+| 🌐 Social Media | 20 |
+| 🗣️ Communication | 15 |
+| 🏆 Personal Development | 15 |
+| 💰 Freelancing & Gig Work | 10 |
+| 🔧 Advanced Techniques | 10 |
 
-- ✅ **100+ 精选提示词模板**：覆盖公众号爆文 / 小红书种草 / 短视频脚本 / 工作汇报 / 代码编程 / 英语学习 / 数据分析 / 副业变现 8 大场景，**复制即用**
-- ✅ **提示词工程核心原理**：结构化提问 4 步法，从根源提升输出质量
-- ✅ **5 个完整实战案例拆解**：看完就会用
-- ✅ **10 大避坑指南**：为什么你的 AI 总在胡说八道
-- ✅ **配套使用指南**：拿到就能上手
-- ✅ 12000+ 字纯干货，Markdown + HTML 双格式
+## Free sample
 
-## 🛒 购买方式
+Try these prompts before buying — a free sample of 25 prompts is available in the gist:
+👉 https://gist.github.com/meiqiu912/de98f2233c44af0486e7c882429a0dda
 
-**19.9 元，一次购买永久使用，后续免费更新。** 付款后自动发送到邮箱，24 小时内到账。
+## Get the full library
 
-🔗 立即购买：http://82.157.101.183:8088/白洁/web/goods/pay-1785616423599-AI提示词实战手册100精选模板.html
+👉 **Buy the full 205-prompt PDF here:** http://82.157.101.183:8088/图灵/web/
 
-## 📖 免费干货
+One-time payment, instant delivery to your email. Upgrade to 500+ prompts free when available.
 
-想先看看值不值？这篇复盘清单免费公开：
-- [我用 ChatGPT 写了 30 天内容后的真实复盘：这 5 个提示词错误，90% 的人都在犯](https://gist.github.com/meiqiu912/e88e4dd2f14e7723fff6e57d63eaa402)
+---
 
-觉得有用，欢迎 Star ⭐ 支持，让更多被 AI "塑料话"困扰的人看到。
+© AI Prompt Library. Built with ❤️ for people who want better AI results.
