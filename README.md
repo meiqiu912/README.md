@@ -1,52 +1,35 @@
-# 🤖 AI Prompt Library — 205 Premium English Prompts (PDF)
+# AI 工具实战手册（AI Tools Handbook）
 
-**205 hand-crafted English prompts** for ChatGPT, Claude & Gemini. 12 practical categories. Copy-paste ready. Get better AI output in seconds — stop the trial-and-error loop.
+一份让你 3 天用上 AI 的实操指南：100+ 免费 AI 工具清单 + 50 个提示词模板 + 免费额度获取指南 + 3 个完整提效工作流。
 
-![version](https://img.shields.io/badge/version-1.0-2dd4bf) ![prompts](https://img.shields.io/badge/prompts-205-818cf8) ![pages](https://img.shields.io/badge/pages-29+-2dd4bf)
+## 为什么需要这份手册？
 
----
+- 刷到一堆 AI 神器，收藏了却从没用起来？
+- 跟 AI 聊天总得不到想要的答案，感觉 AI 很笨？
+- 不知道哪些工具免费、哪些要付费，怕被割韭菜？
 
-## 📖 What's Inside
+这份手册不吹概念，只给能直接用的东西。
 
-| # | Category | What you can do |
-|---|----------|-----------------|
-| 01 | Writing & Editing | Articles, essays, outlines, rewriting, tone control |
-| 02 | Marketing & Sales | Ad copy, landing pages, email sequences, positioning |
-| 03 | Coding & Debugging | Code review, refactoring, docs, test cases |
-| 04 | Business & Strategy | SWOT, business plans, pricing, competitor analysis |
-| 05 | Research & Analysis | Summaries, data interpretation, literature review |
-| 06 | Learning & Tutoring | Explain anything, practice questions, analogies |
-| 07 | Productivity & Planning | Task breakdown, prioritization, meeting prep |
-| 08 | Career & Resume | Resumes, cover letters, interview prep, salary talk |
-| 09 | Social Media & Content | Post ideas, captions, threads, video scripts |
-| 10 | Translation & Localization | Accurate, natural translation with tone control |
-| 11 | Email & Communication | Cold emails, follow-ups, professional replies |
-| 12 | Creative & Idea Generation | Brainstorming, naming, storytelling |
+## 包含内容
 
-## 🎯 Who It's For
+| 模块 | 内容 |
+|------|------|
+| 工具清单 | 100+ 真实免费/高性价比 AI 工具，写作/绘图/视频/办公/编程全覆盖，逐一标注免费额度 |
+| 提示词模板 | 50 个高频模板，写作/办公/学习/营销/编程/生活六大场景，复制改参数就能用 |
+| 免费额度指南 | 各大平台合规白嫖技巧，不花一分钱用上付费级功能 |
+| 实战工作流 | 3 个完整 AI 提效流程，从 0 到 1 实操演示 |
 
-- English learners who want AI output that sounds **native, not AI**
-- Freelancers & marketers writing emails, copy, and LinkedIn posts
-- Developers writing docs, comments, and PR descriptions
-- Students polishing essays and abstracts
-- Anyone tired of the "write me an email" → robotic-result loop
+## 适合谁
 
-## ✅ What You Get
+- ✅ 想用 AI 提效但不知从何下手的上班族
+- ✅ 自媒体人、文案、设计师、运营（内容产出刚需）
+- ✅ 想学 AI 工具但怕踩坑的学生党
+- ❌ 想一夜暴富的"AI 副业"幻想者（手册不卖焦虑）
 
-- 205 prompts across 12 scenarios, each with: **use case + template + placeholder guide**
-- Copy-paste ready — change 2-3 words in `[brackets]`, done
-- Works with ChatGPT, Claude & Gemini
-- One-time purchase, lifetime use, free future upgrades
+## 获取方式
 
-## 🚀 Get It
+**限时 ¥9.9（原价 ¥99）**，一次购买永久免费获取后续更新。
 
-👉 **[Buy the PDF (Early-bird ¥19.9) → http://82.157.101.183:8088/图灵/web/](http://82.157.101.183:8088/图灵/web/)**
-Alipay payment · PDF delivered to email within 24h · refund-friendly
+👉 https://gist.github.com/meiqiu912/2ea2544a2c2ad205bad1fcf44f71a6fd
 
-## 📄 Free Sample
-
-Want to try before buying? Read **[20 Free ChatGPT Prompts That Make Your English Sound Native](https://gist.github.com/meiqiu912/6aaaab734129fddb6982a2183ba17635)** — 20 copy-paste prompts, free.
-
----
-
-*AI Prompt Library · Make every AI conversation worth it*
+（更多内容与购买入口见上方链接，付款后自动发送到邮箱）
