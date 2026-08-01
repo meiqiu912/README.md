@@ -1,58 +1,44 @@
-# 🤖 AI Prompt Library — 205 Premium Prompts (PDF)
+# AI Prompt Library 📚
 
-**205 hand-crafted English prompts** for ChatGPT, Claude & Gemini. 12 practical categories. Copy-paste ready. Get better AI output in seconds — stop the trial-and-error loop.
+**205 battle-tested prompts for ChatGPT, Claude & Gemini — organized, copy-paste ready, with real example outputs.**
 
-![version](https://img.shields.io/badge/version-1.0-2dd4bf) ![prompts](https://img.shields.io/badge/prompts-205-818cf8) ![pages](https://img.shields.io/badge/pages-29+-2dd4bf)
-
----
-
-## 📖 What's Inside
-
-| # | Category | What you can do |
-|---|----------|-----------------|
-| 01 | Writing & Editing | Articles, essays, outlines, rewriting, tone control |
-| 02 | Marketing & Sales | Ad copy, landing pages, email sequences, positioning |
-| 03 | Coding & Debugging | Code review, refactoring, docs, test cases |
-| 04 | Business & Strategy | SWOT, business plans, pricing, competitor analysis |
-| 05 | Research & Analysis | Summaries, data interpretation, literature review |
-| 06 | Learning & Tutoring | Explain anything, practice questions, analogies |
-| 07 | Productivity & Planning | Task breakdown, prioritization, meeting prep |
-| 08 | Career & Resume | Resumes, cover letters, interview prep, salary talk |
-| 09 | Social Media & Content | Post ideas, captions, threads, video scripts |
-| 10 | Translation & Localization | Accurate, natural translation with tone control |
-| 11 | Email & Communication | Cold emails, follow-ups, professional replies |
-| 12 | Creative & Idea Generation | Story ideas, brainstorming, naming, concepts |
-
-## 🎁 Free Sample Prompts (Try Before You Buy)
-
-**1. The Rewrite Engine**
-```
-Rewrite the text below in [tone: professional/friendly/persuasive].
-Keep the meaning identical, improve clarity, cut every redundant word.
-Then explain the 3 biggest changes you made and why.
-```
-
-**2. Hook Generator**
-```
-Give me 10 scroll-stopping hooks for a post about [TOPIC].
-Mix formats: shocking stat, contrarian take, story opening, bold question.
-Each hook must be under 12 words.
-```
-
-**3. Task Deconstruction**
-```
-Break down [GOAL] into a step-by-step plan.
-For each step include: what to do, how long it takes, and the output.
-Flag the step most likely to fail and how to prevent it.
-```
+![AI Prompt Library](https://img.shields.io/badge/prompts-205-blue) ![Pages](https://img.shields.io/badge/pages-29-green) ![Chapters](https://img.shields.io/badge/chapters-12-orange)
 
 ---
 
-## 📥 Get the Full 205-Prompt PDF
+## Why this library?
 
-👉 **[Buy the AI Prompt Library (¥29, instant PDF download)](http://82.157.101.183:8088/图灵/web/)**
+Most people prompt AI like this:
+> "Write a blog post about productivity."
 
-Every prompt in the full version is tested, refined, and organized by use case — so you spend less time prompting and more time shipping.
+And get generic fluff back.
 
-## ⭐ Support
-If this helps you, give the repo a star ⭐ and share it with someone who prompts AI daily.
+With the right prompt structure, the same model returns **publish-ready work**. The difference is a 4-part formula: **Role + Context + Constraint + Output Format**.
+
+## What's inside
+
+| Chapter | Prompts | Example |
+|---------|---------|---------|
+| Writing | 25 | Blog posts, emails, editing, storytelling |
+| Programming | 25 | Code review, debugging, tests, architecture |
+| Marketing | 20 | Copywriting, SEO, cold outreach, ads |
+| Learning | 20 | Feynman technique, quizzes, study plans |
+| Data & Analysis | 20 | Insights, reports, experiments |
+| Productivity | 20 | Prioritization, planning, meetings |
+| Idea Generation | 15 | Brainstorming, variations, angles |
+| ...and 5 more | 60 | Prompts, personas, workflows |
+
+**Plus:**
+- ✅ A prompt-engineering **cheat sheet** (write your own prompts)
+- ✅ Real **example outputs** for every category
+- ✅ Tips to get better results from ChatGPT, Claude & Gemini
+
+## Who is this for?
+Freelancers, content creators, developers, marketers, students — anyone who uses AI daily and wants better results in less time.
+
+## Get the full library
+👉 **http://82.157.101.183:8088/图灵/web/**
+
+---
+
+*Free sample: check my [gist with 20 free prompts](https://gist.github.com/meiqiu912/a58dfae2d62f36e98019ff9c4f678549)*
