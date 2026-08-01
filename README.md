@@ -1,43 +1,49 @@
-# 公众号爆文改写Prompt包
+# 🤖 AI Prompt Library — 205 Premium Prompts (PDF)
 
-做公众号，你是不是也这样：
-- 用AI写初稿，发出去读者一眼看穿"这是AI写的"
-- 标题平平无奇，阅读量死活上不去
-- 开头写不出抓人的钩子，读者划两秒就走
-- 每篇文章都像在念报告，没有"人味"
+**205 hand-crafted English prompts for ChatGPT, Claude & Gemini.** 12 practical categories. Copy-paste ready. Stop trial-and-erroring with AI — get better output in seconds.
 
-**这套《公众号爆文改写Prompt包》就是解决这些问题的。**
-
-## 里面有什么
-
-一套可直接复制使用的完整Prompt模板，8大场景全覆盖：
-
-1. **爆文标题改写** —— 10秒出10个标题，悬念/数字/痛点/观点/对比5类公式
-2. **开头3秒抓人** —— 场景代入/冲突反差/数字冲击3种钩子写法
-3. **正文去AI味口语化** —— 把书面语改成"人味"聊天，专治AI味
-4. **金句提炼** —— 一段文字提炼5个可截图传播的金句
-5. **结尾转化** —— 涨粉+评论+转发三步引导设计
-6. **一键成稿** —— 素材直接变1200-1800字成稿
-7. **爆文仿写结构拆解** —— 拆解对标爆文骨架，换主题仿写
-8. **发布前自查清单** —— 6项检查防止"AI味"返潮
-
-适配 ChatGPT / Claude / Kimi / 豆包，**复制即用**，不需要任何提示词基础。
-
-## 定价
-
-**¥9.9**（一杯奶茶钱）
-
-## 购买方式
-
-👉 https://gist.github.com/meiqiu912/df1caebe9dfb331ee2dcc6ccfadd1d7e （文章底部有购买入口）
-
-或直接访问销售页：
-http://82.157.101.183:8088/古龙/web/goods/pay-1785606039920-公众号爆文改写Prompt包.html
-
-付款后邮件交付PDF版，24小时内到账。
+![version](https://img.shields.io/badge/version-1.0-2dd4bf) ![prompts](https://img.shields.io/badge/prompts-205-818cf8) ![pages](https://img.shields.io/badge/pages-29-2dd4bf)
 
 ---
 
-*我是古龙，写了3年公众号的撰稿人。这套包是我自己改稿时反复用的Prompt，全部验证过效果。*
+## 📖 What's Inside
 
-## Star / Fork 这个仓库，把技巧分享给需要的朋友
+| # | Category | Use cases |
+|---|----------|-----------|
+| 01 | Writing & Editing | Articles, essays, rewriting, tone control |
+| 02 | Marketing & Sales | Ad copy, email sequences, positioning |
+| 03 | Coding & Debugging | Code review, refactoring, docs, test cases |
+| 04 | Business & Strategy | SWOT, pricing, competitor analysis |
+| 05 | Research & Analysis | Summaries, data interpretation, literature review |
+| 06 | Learning & Tutoring | Explain anything, practice questions |
+| 07 | Productivity | Meeting prep, decision-making, planning |
+| 08 | Data Analysis | Excel/CSV prompts, report interpretation |
+| 09 | HR & Career | Resume, interview prep, performance reviews |
+| 10 | Creative Writing | Story, poetry, dialogue, brainstorming |
+| 11 | Social Media | Captions, threads, community replies |
+| 12 | Life & Daily | Travel, health, personal finance, learning |
+
+## 🎁 Free Sample — 3 Prompts You Can Use Right Now
+
+**1. Beat writer's block**
+> I'm writing about [TOPIC] for [AUDIENCE]. Give me 5 completely different angles I haven't considered, each with a hook sentence. Rank by how surprising they are.
+
+**2. Code review as senior engineer**
+> Act as a senior engineer. Review this code for bugs, security, performance, readability. For each issue: why it matters + fixed code.
+> [PASTE CODE]
+
+**3. Summarize without losing nuance**
+> Summarize this in 5 bullets. Each bullet: one key idea + one caveat. Don't oversimplify.
+> [PASTE TEXT]
+
+## 📥 Get the Full 205-Prompt PDF
+
+Each prompt includes placeholders you fill in 10 seconds — no more staring at a blank chat box wondering what to type.
+
+**Instant download after payment (¥19.90 / $9.9):** → http://82.157.101.183:8088/图灵/web/
+
+*Payments via Alipay. PDF delivered to your email within 24h. Free updates when the library grows to 500+ prompts.*
+
+---
+
+⭐ Star this repo if you found the free prompts useful — it helps more people discover better AI usage.
