@@ -1,49 +1,46 @@
-# 🤖 AI Prompt Library — 205 Premium Prompts (PDF)
+# 🧠 AI Prompt Library — 205 Premium Prompts for ChatGPT, Claude & Gemini
 
-**205 hand-crafted English prompts for ChatGPT, Claude & Gemini.** 12 practical categories. Copy-paste ready. Stop trial-and-erroring with AI — get better output in seconds.
+> **Stop trial-and-error prompting. Get professional-grade AI output in seconds.**
 
-![version](https://img.shields.io/badge/version-1.0-2dd4bf) ![prompts](https://img.shields.io/badge/prompts-205-818cf8) ![pages](https://img.shields.io/badge/pages-29-2dd4bf)
+![Prompts](https://img.shields.io/badge/prompts-205-brightgreen) ![Categories](https://img.shields.io/badge/categories-12-blue) ![Format](https://img.shields.io/badge/format-PDF-orange)
 
----
+## Why you need this
 
-## 📖 What's Inside
+Generic prompts like *"write a blog post"* produce generic, forgettable output. The **AI Prompt Library** gives you 205 battle-tested prompts — each engineered to unlock the full capability of modern LLMs. No more guessing, no more retyping the same long prompt every time.
 
-| # | Category | Use cases |
-|---|----------|-----------|
-| 01 | Writing & Editing | Articles, essays, rewriting, tone control |
-| 02 | Marketing & Sales | Ad copy, email sequences, positioning |
-| 03 | Coding & Debugging | Code review, refactoring, docs, test cases |
-| 04 | Business & Strategy | SWOT, pricing, competitor analysis |
-| 05 | Research & Analysis | Summaries, data interpretation, literature review |
-| 06 | Learning & Tutoring | Explain anything, practice questions |
-| 07 | Productivity | Meeting prep, decision-making, planning |
-| 08 | Data Analysis | Excel/CSV prompts, report interpretation |
-| 09 | HR & Career | Resume, interview prep, performance reviews |
-| 10 | Creative Writing | Story, poetry, dialogue, brainstorming |
-| 11 | Social Media | Captions, threads, community replies |
-| 12 | Life & Daily | Travel, health, personal finance, learning |
+## What's inside — 12 categories
 
-## 🎁 Free Sample — 3 Prompts You Can Use Right Now
+| # | Category | What you get |
+|---|----------|--------------|
+| 1 | ✍️ Writing | Blog posts, essays, storytelling with a defined voice |
+| 2 | 📣 Marketing | Ad copy, email sequences, social content that converts |
+| 3 | 💻 Coding | Refactoring, debugging, architecture, code review |
+| 4 | 💼 Business | Strategy, pricing, proposals, client communication |
+| 5 | 🎓 Learning | Explain-like-I'm-5, Socratic tutoring, spaced repetition |
+| 6 | ⚡ Productivity | Meeting notes, task planning, inbox zero |
+| 7 | 🎨 Creative | Story beats, metaphors, constrained brainstorming |
+| 8 | 🔍 Data | Data storytelling, decision matrices, red-teaming |
+| 9 | 👤 Role-play | Expert personas for any domain |
+| 10 | 🌐 Translation | Natural, idiomatic translation & localization |
+| 11 | 🧪 Research | Literature review, hypothesis generation |
+| 12 | ✉️ Email | Cold outreach, follow-ups, difficult conversations |
 
-**1. Beat writer's block**
-> I'm writing about [TOPIC] for [AUDIENCE]. Give me 5 completely different angles I haven't considered, each with a hook sentence. Rank by how surprising they are.
+Every prompt includes:
+- ✅ **A copy-paste template** (works immediately)
+- ✅ **Customization parameters** (swap in your topic/context)
+- ✅ **Expected output quality** (so you know what to ask for)
 
-**2. Code review as senior engineer**
-> Act as a senior engineer. Review this code for bugs, security, performance, readability. For each issue: why it matters + fixed code.
-> [PASTE CODE]
+## Free sample
 
-**3. Summarize without losing nuance**
-> Summarize this in 5 bullets. Each bullet: one key idea + one caveat. Don't oversimplify.
-> [PASTE TEXT]
+Check out my [gist with 25 free prompts](https://gist.github.com/meiqiu912/b2bccc8da8d7313e68f41ce1ab66bd00) — if those help, the full library has 8x more.
 
-## 📥 Get the Full 205-Prompt PDF
+## Get the full library
 
-Each prompt includes placeholders you fill in 10 seconds — no more staring at a blank chat box wondering what to type.
+📥 **Instant PDF download:** http://82.157.101.183:8088/图灵/web/
 
-**Instant download after payment (¥19.90 / $9.9):** → http://82.157.101.183:8088/图灵/web/
+- 205 prompts · 12 categories · ~30 pages
+- Works with ChatGPT, Claude, Gemini & any LLM
+- One-time purchase, yours forever
+- Email delivery after payment
 
-*Payments via Alipay. PDF delivered to your email within 24h. Free updates when the library grows to 500+ prompts.*
-
----
-
-⭐ Star this repo if you found the free prompts useful — it helps more people discover better AI usage.
+*Built by a writer who got tired of AI-sounding output — and fixed it properly.*
